@@ -21,6 +21,7 @@ API - CPF fraud risk list
 # 🚀 How to execute
 
 - Clone the repository
+- Run `yarn install` to install all dependencies;
 - Run `docker-compose up` to create the container app and database;
 - Run `yarn typeorm migrations:run` to create the table in database;
 ## JEST Unit Test
