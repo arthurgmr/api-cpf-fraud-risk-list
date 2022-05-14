@@ -1,4 +1,4 @@
-<h1 align="center">git </h1>
+<h1 align="center">API - CPF fraud risk list</h1>
 <br>
 
 # ✨ Technologies
@@ -23,7 +23,6 @@ API - CPF fraud risk list
 - Clone the repository
 - Run `docker-compose up` to create the container app and database;
 - Run `yarn typeorm migrations:run` to create the table in database;
-
 ## JEST Unit Test
 - Run `yarn test` to execute all units tests;
 
